@@ -1,1 +1,2 @@
-print("Hello Student !!")
+print("Hello Student !!");
+print("welcome to Django");
